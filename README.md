@@ -1,3 +1,15 @@
+---
+
+<div align="center">
+
+🇨🇳 **[点击查看中文版本](./README.zh-CN.md)** | **简体中文 README**
+
+> **人工智能入门** — 微软官方开源课程，完整中文翻译版本
+
+</div>
+
+---
+
 [![GitHub license](https://img.shields.io/github/license/microsoft/AI-For-Beginners.svg)](https://github.com/microsoft/AI-For-Beginners/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/AI-For-Beginners.svg)](https://GitHub.com/microsoft/AI-For-Beginners/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/microsoft/AI-For-Beginners.svg)](https://GitHub.com/microsoft/AI-For-Beginners/issues/)
